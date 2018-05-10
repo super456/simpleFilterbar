@@ -1,0 +1,4 @@
+<import src="../../components/filterbar/filterbar.wxml" />
+    <!--这里添加模板：横向导航栏  -->
+    <template is="filterbar" data="{{ ...$wux.filterbar }}" /> 
+
